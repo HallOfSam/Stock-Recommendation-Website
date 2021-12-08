@@ -1,8 +1,6 @@
 # Stock-Recommendation-Website
 
 What is it?
-
-
 A stock recommending website implementing stock search, filter, comparison, account, and watchlist.
 
 
@@ -32,7 +30,7 @@ Written in decimal number (i.e. 1% is written as 0.01)
 Recommending algorithms (screen.py)
 
 Debug:
-For those got certificate_verify_failed error, try add 
+For those got certificate_verify_failed error, try adding 
 "import ssl
 ssl._create_default_https_context = ssl._create_unverified_context"
 To the file.
