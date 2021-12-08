@@ -7,7 +7,7 @@ A stock recommending website implementing stock search, filter, comparison, acco
 
 
 How do we use it?
-You will need to run 2 scripts - screen.py (recommending algorithms) and main.py (the website under flask)
+You will need to run 2 scripts - screen.py (recommending algorithms) and main.py (the website under flask) located in the directory "Stock-Recommendation-Website/Stock-filtering website/investor/".
 1, Run screen.py ahead of time (1.5 h), I know it's slow! But that's how the algorithms work. The good news is as long as you don't terminate it, you will get renewed data every 2 hours automatically. That means every time after waiting the first 1.5 hours you will get up-to-date recommendation list instantaneously!
 2, Run main.py. (You don't need to wait for completion of step one. We have a recommending list stored for you, probably from yesterday) Then you will get a website, open it and here is our stock recommending website.
 
