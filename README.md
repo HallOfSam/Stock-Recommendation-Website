@@ -1,4 +1,4 @@
-# Stock-Screening-Website
+# Stock-Screener-Website
 
 What is it?
 A stock recommending website implementing stock search, filter, comparison, account, and watchlist.
