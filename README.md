@@ -1,7 +1,7 @@
 # Stock-Screener-Website
 
 What is it?
-A stock recommending website that contains several functions: stock search, filter, comparison, account, and watchlist.
+A stock screener website that contains several functions: stock search, filter, comparison, account, and watchlist.
 
 
 
